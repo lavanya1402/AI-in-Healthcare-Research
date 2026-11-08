@@ -36,3 +36,17 @@ crewaidemo/
 ├── .env                  # API keys and environment variables
 ├── requirements.txt      # Required packages
 └── venv/                 # Virtual environment
+
+
+## Run locally
+
+```bash
+python -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
+## License
+
+MIT, see [LICENSE](LICENSE). Built by [Lavanya Srivastava](https://github.com/lavanya1402), Lavanya AI Consultancy.

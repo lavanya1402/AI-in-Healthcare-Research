@@ -2,6 +2,3 @@ crewai
 crewai-tools
 python-dotenv
 streamlit
-#python -m pip install --upgrade pip setuptools wheel
-#pip install regex
-#git addpip install tiktoken
